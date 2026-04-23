@@ -217,7 +217,7 @@ npx skills add fisher-yu-like/wang-er-skill
 想蒸馏其他人？安装女娲：
 
 ```bash
-npx skills add fisher-yu-like/nuwa-skill
+npx skills add alchaincyf/nuwa-skill
 ```
 
 然后说「蒸馏一个XXX」就行了。
