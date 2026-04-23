@@ -358,6 +358,9 @@ wang-er-skill/
 ├── scripts/                               # 辅助脚本
 └── chenze-README.md                       # 参考的README示例
 ```
+### 相关作品
+[Justin Bieber-skill](https://github.com/fisher-yu-like/justin-bieber-skill)
+[陈泽-skill](https://github.com/fisher-yu-like/chenze-skill)
 
 ---
 
